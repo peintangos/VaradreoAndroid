@@ -1,0 +1,3 @@
+[submodule "varadero-web"]
+	path = varadero-web
+	url = git@github.com:peintangos/varadero-web.git
